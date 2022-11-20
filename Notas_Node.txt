@@ -1,0 +1,32 @@
+npm init -y
+npm i nodemon -g
+npm i express
+npm i dotenv -config env
+
+npm i express-validator  -validaciones
+ npm install mongoose --save
+
+Libreria para hash contraseñas
+npm i bcryptjs
+
+npm i jsonwebtoken
+npm i cors
+
+Status code
+https://www.restapitutorial.com/httpstatuscodes.html
+
+Configuracion de bd
+
+Mongo Atlas
+Copia bd atlas mongo
+Ki4Qz8pfvesYTC9y
+
+Cred bd
+calendarDB
+4SwR7BnSmaEE4bjk
+---------------------
+db_user: user_mern
+pwd_user: NIPNDEFgmLYXvL7y
+
+Enlace MongDBCompass
+mongodb+srv://user_mern:NIPNDEFgmLYXvL7y@calendardb.uv3wwsu.mongodb.net/test
